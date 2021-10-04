@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EAC1_2_Benito_A</string>
+    <string name="text_titulo">EAC1 EJERCICIO 9</string>
+    <string name="text_explicacio">Clicka Button para pasar al siguiente menu.</string>
+    <string name="button">BUTTON</string>
+    <string name="edittext_uri">https://ioc.xtec.cat/educacio/index.php</string>
+    <string name="button_web">Abrir página web</string>
+    <string name="edittext_phone">tel:+34933476100</string>
+    <string name="button_phone">Realizar llamada</string>
+    <string name="edittext_sharetext">Institut Obert de Catalunya</string>
+    <string name="button_sharetext">Compartir texto</string>
+    <string name="edittext_sendtext"></string>
+    <string name="sendtext_hint">Introduce texto a enviar</string>
+    <string name="button_sendtext">Enviar texto</string>
+
+
+</resources>
