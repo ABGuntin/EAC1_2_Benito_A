@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3416666666666667" />
         <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout-land/activity_main.xml" value="0.31437389770723106" />
+        <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.43369829683698297" />
         <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout/activity_2.xml" value="0.37135416666666665" />
         <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout/activity_3.xml" value="0.3211050724637681" />
-        <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout/activity_main.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/maytr/Documents/PROGRAMACION/AndroidStudioProjects/EAC1_2_Benito_A/app/src/main/res/layout/activity_main.xml" value="0.29936594202898553" />
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.16843033509700175" />
         <entry key="app/src/main/res/layout/activity_2.xml" value="0.18659420289855072" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
