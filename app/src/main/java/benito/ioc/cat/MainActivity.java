@@ -14,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    /*
+    Cuando un usuario apreta el boton, este conduce a una activity nueva (a la activity2)
+     */
     public void pressButton(View view) {
         Intent intent = new Intent(this, Activity2.class);
         startActivity(intent);
